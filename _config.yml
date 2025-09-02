@@ -19,3 +19,4 @@ plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-include-cache # needed for minimal-mistakes
