@@ -1,5 +1,8 @@
 ---
 title: About the Page
+layout: single
+classes:
+  - wide
 ---
 
 # Testing
